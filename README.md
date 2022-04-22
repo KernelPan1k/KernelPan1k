@@ -2,7 +2,7 @@
 <img src="https://cdn.shopify.com/s/files/1/0330/5504/7812/files/licorne-arc-en-ciel-gif.gif?v=1593674946" height="160px" width="160px">
 </p>
 
-<h1 align="center">Hi, I'm <a href="https://kernel-panik.me"  target="_blank">KP!</a> 👋</h1>
+<h1 align="center">Hi, I'm KP! 👋</h1>
     
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=KernelPan1k&style=flat&color=red" /> </p>
