@@ -1,6 +1,4 @@
-<p align="center"> 
-<img src="https://cdn.shopify.com/s/files/1/0330/5504/7812/files/licorne-arc-en-ciel-gif.gif?v=1593674946" height="160px" width="160px">
-</p>
+
 
 <h1 align="center">Hi, I'm KP! 👋</h1>
     
