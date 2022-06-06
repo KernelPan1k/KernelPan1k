@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kernelpan1k&label=Profile%20views&color=0e75b6&style=flat" alt="kernelpan1k" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kernelpan1k" alt="kernelpan1k" /></a> </p>
+<p align="center"> <a href=""><img src="https://github-profile-trophy.vercel.app/?username=kernelpan1k" alt="kernelpan1k" /></a> </p>
 
 
 <h3 align="left">Languages and Tools:</h3>
