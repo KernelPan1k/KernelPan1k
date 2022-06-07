@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm KP</h1>
 <h3 align="center">A passionate backend developer and offensive security enthusiast.</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=kernelpan1k&label=Profile%20views&color=0e75b6&style=flat" alt="kernelpan1k" /> </p>
-
 <p align="center"> <a href=""><img src="https://github-profile-trophy.vercel.app/?username=kernelpan1k" alt="kernelpan1k" /></a> </p>
 
 
